@@ -1,0 +1,11 @@
+C:\Users\camav\code\gdmgent-1819-csse1\week2\test2\bin\Debug\netcoreapp2.1\test2.deps.json
+C:\Users\camav\code\gdmgent-1819-csse1\week2\test2\bin\Debug\netcoreapp2.1\test2.runtimeconfig.json
+C:\Users\camav\code\gdmgent-1819-csse1\week2\test2\bin\Debug\netcoreapp2.1\test2.runtimeconfig.dev.json
+C:\Users\camav\code\gdmgent-1819-csse1\week2\test2\bin\Debug\netcoreapp2.1\test2.dll
+C:\Users\camav\code\gdmgent-1819-csse1\week2\test2\bin\Debug\netcoreapp2.1\test2.pdb
+C:\Users\camav\code\gdmgent-1819-csse1\week2\test2\obj\Debug\netcoreapp2.1\test2.csprojAssemblyReference.cache
+C:\Users\camav\code\gdmgent-1819-csse1\week2\test2\obj\Debug\netcoreapp2.1\test2.csproj.CoreCompileInputs.cache
+C:\Users\camav\code\gdmgent-1819-csse1\week2\test2\obj\Debug\netcoreapp2.1\test2.AssemblyInfoInputs.cache
+C:\Users\camav\code\gdmgent-1819-csse1\week2\test2\obj\Debug\netcoreapp2.1\test2.AssemblyInfo.cs
+C:\Users\camav\code\gdmgent-1819-csse1\week2\test2\obj\Debug\netcoreapp2.1\test2.dll
+C:\Users\camav\code\gdmgent-1819-csse1\week2\test2\obj\Debug\netcoreapp2.1\test2.pdb
