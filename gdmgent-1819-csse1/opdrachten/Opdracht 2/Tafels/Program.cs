@@ -33,7 +33,7 @@ namespace tafels
             }
             Program program = new Program();
             Console.WriteLine("schrijf een getal");
-            int tafelVan =Convert.ToInt32(Console.ReadLine());
+            int nieuw =Convert.ToInt32(Console.ReadLine());
 
             tafel(1);
             tafel(2);
