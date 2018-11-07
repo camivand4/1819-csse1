@@ -1,0 +1,11 @@
+C:\Users\camav\Code\1819-csse1\gdmgent-1819-csse1\opdrachten\Opdracht 2\Tafels\obj\Debug\netcoreapp2.1\tafels.csprojAssemblyReference.cache
+C:\Users\camav\Code\1819-csse1\gdmgent-1819-csse1\opdrachten\Opdracht 2\Tafels\obj\Debug\netcoreapp2.1\tafels.csproj.CoreCompileInputs.cache
+C:\Users\camav\Code\1819-csse1\gdmgent-1819-csse1\opdrachten\Opdracht 2\Tafels\obj\Debug\netcoreapp2.1\tafels.AssemblyInfoInputs.cache
+C:\Users\camav\Code\1819-csse1\gdmgent-1819-csse1\opdrachten\Opdracht 2\Tafels\obj\Debug\netcoreapp2.1\tafels.AssemblyInfo.cs
+C:\Users\camav\Code\1819-csse1\gdmgent-1819-csse1\opdrachten\Opdracht 2\Tafels\bin\Debug\netcoreapp2.1\tafels.deps.json
+C:\Users\camav\Code\1819-csse1\gdmgent-1819-csse1\opdrachten\Opdracht 2\Tafels\bin\Debug\netcoreapp2.1\tafels.runtimeconfig.json
+C:\Users\camav\Code\1819-csse1\gdmgent-1819-csse1\opdrachten\Opdracht 2\Tafels\bin\Debug\netcoreapp2.1\tafels.runtimeconfig.dev.json
+C:\Users\camav\Code\1819-csse1\gdmgent-1819-csse1\opdrachten\Opdracht 2\Tafels\bin\Debug\netcoreapp2.1\tafels.dll
+C:\Users\camav\Code\1819-csse1\gdmgent-1819-csse1\opdrachten\Opdracht 2\Tafels\bin\Debug\netcoreapp2.1\tafels.pdb
+C:\Users\camav\Code\1819-csse1\gdmgent-1819-csse1\opdrachten\Opdracht 2\Tafels\obj\Debug\netcoreapp2.1\tafels.dll
+C:\Users\camav\Code\1819-csse1\gdmgent-1819-csse1\opdrachten\Opdracht 2\Tafels\obj\Debug\netcoreapp2.1\tafels.pdb
