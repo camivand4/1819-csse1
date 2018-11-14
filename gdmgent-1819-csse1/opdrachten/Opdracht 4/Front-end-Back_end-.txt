@@ -1,0 +1,33 @@
+
+								Front-end & back-end frameworks	
+
+	- Wat is het verschil tussen front end back end?
+
+Front End:
+Front end development manages everything that users visually see first in their browser or application. Front end developers are responsible for the look and feel of a site.
+
+Back End
+Back end development refers to the server side of an application and everything that communicates between the database and the browser.
+
+Als frontend developer houdt je je bezig met de interactie van een gebruiker en het visuele aspect van de applicatie. En als backend developer ben je meer bezig met het verwerken van data en het opslaan hiervan in een database. 
+
+	- Geef 5 voorbeelden van front end framework.
+
+1. Bootstrap
+2. Semantic-UI
+3. Foundation
+4. Materialize
+5. Material UI
+
+	- Geef 5 voorbeelden van back end frameworks.
+
+1. Django
+2. Ruby on rails
+3. Flask
+4. Phoenix (Elixir)
+5. Express.js
+
+	- Welke zijn de populairste back end en front end frameworks?
+
+Front end framework: Bootstrap
+Back end framework: Ruby on rails
