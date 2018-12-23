@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\camav\\Code\\1819-csse1\\gdmgent-1819-csse1\\opdrachten\\Opdracht 6\\deel 3\\deel 3.csproj",
+      "projectUniqueName": "C:\\Users\\camav\\Code\\1819-csse1\\gdmgent-1819-csse1\\opdrachten\\Opdracht 6\\deel 3\\part 1\\deel 3.csproj",
       "projectName": "deel 3",
-      "projectPath": "C:\\Users\\camav\\Code\\1819-csse1\\gdmgent-1819-csse1\\opdrachten\\Opdracht 6\\deel 3\\deel 3.csproj",
+      "projectPath": "C:\\Users\\camav\\Code\\1819-csse1\\gdmgent-1819-csse1\\opdrachten\\Opdracht 6\\deel 3\\part 1\\deel 3.csproj",
       "packagesPath": "C:\\Users\\camav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\camav\\Code\\1819-csse1\\gdmgent-1819-csse1\\opdrachten\\Opdracht 6\\deel 3\\obj\\",
+      "outputPath": "C:\\Users\\camav\\Code\\1819-csse1\\gdmgent-1819-csse1\\opdrachten\\Opdracht 6\\deel 3\\part 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

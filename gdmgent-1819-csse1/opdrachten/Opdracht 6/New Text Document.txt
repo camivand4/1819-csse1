@@ -1,0 +1,75 @@
+Opdracht 6
+
+	Deel 1:
+
+ 		- CSV
+ 		- XML
+ 		- JSON
+
+	Verschillen:	 
+		hoeveel plaats het inneemt (XML: het meeste)
+
+
+
+	Deel 3:
+
+		Waarvoor gebruiken we patronen:
+		singleton pattern
+		
+		Cursieve class in UML: abstract class
+		factory pattern -> abstract pattern 
+		vorm ipv abstract factory (UML class diagram)
+		
+		enkel de abstract factory kennen , niet de factory method pattern
+
+		meerkeuzevragen uit het 1e verslag (bs, zie canvas/gdm.gent)
+
+
+
+		rekenkundige operatoren vanbuiten
+		tekenkundige ook
+		(3.3 fundamenten)
+		
+
+UML schema's herkennen
+ook moeten oefenen
+
+een vraag op examen, pattern bij, vraag welk pattern is het
+
+algoritm vs programma (verschil kennen)
+
+schema UML vraag op examen
+wat is elk onderdeel
+met pen en papier kunnen tekenen
+
+datatypen, conversie int
+datastructuren herkennen welke er zijn
+fifo en lifo collecctie
+size 
+count 
+length
+
+Security -> niet
+
+coding convntions and naming shit
+
+frameworks verslag
+verschil frontend en backend
+ijsberg
+
+big data
+
+verschil en voorbeeld geven big data en open data
+
+3 belangrijksteonderdeln van databases
+volgorde database toevoegen belangrijk
+sleutel gerelateerde tabellen
+
+SaaS (Software as a Service)
+vb GoogleDocs, github
+
+IAAS (infrastructure as a service)
+server aanwezig, de rest zelf voorzien
+
+
+verschillende datastructuren en hyrierarchei ofzo

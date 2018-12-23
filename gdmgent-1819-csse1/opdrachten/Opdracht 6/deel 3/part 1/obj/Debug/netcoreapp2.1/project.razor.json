@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\camav\\Code\\1819-csse1\\gdmgent-1819-csse1\\opdrachten\\Opdracht 6\\deel 3\\part 1\\deel 3.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
